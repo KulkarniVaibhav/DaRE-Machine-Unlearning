@@ -1,5 +1,5 @@
 ---
-abstract: |
+# Abstract
   Computational feasibility is an important aspect while updating the
   model for retraining when user requests digital footprint from the
   dataset to be removed. It is obvious that it is not feasible to
@@ -13,23 +13,6 @@ abstract: |
   efficacy of the machine unlearning with respect to complete retraining
   which are data deletion threshold, space overhead and the time
   overhead.
-author:
-- |
-  Ashwin Rai\
-  *(Point of Contact)*\
-  raiashwin@ufl.edu\
-- |
-  Vaibhav Kulkarni\
-  kulkarniv@ufl.edu\
-- |
-  Zubin Arya\
-  z.arya@ufl.edu\
-bibliography:
-- refs.bib
-title: |
-  CIS 6930: Trustworthy Machine Learning\
-  Final Report: Machine Unlearning for Randomized Decision Trees
----
 
 # Introduction
 
